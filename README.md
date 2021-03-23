@@ -1,4 +1,4 @@
-# Matlab_FormattingPlot
+# MATLAB_FormattingPlot
 
 run MATLAB
 
