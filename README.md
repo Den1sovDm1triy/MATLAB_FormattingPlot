@@ -2,7 +2,7 @@
 
 run MATLAB
 
-Open Matlab_FormattingPlot.m // for example, with the help of drag-and-dropping or press Open ->
+Open MATLAB_FormattingPlot.m // for example, with the help of drag-and-dropping or press Open ->
 
 Impord data from SampleData_forFormattingPlot.csv
 
